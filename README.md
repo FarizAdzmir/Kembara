@@ -4,8 +4,6 @@
 
   <p><b>Kembara</b> is a travel website create by a Digital Nomand to help other traveler. Offering guides and tips from his experiences.</p>
 
-<p>Credits for the design goes to <a href='https://www.youtube.com/@Bedimcode'>Bedimcode</a></p>
-
 👉 Live Demo: <a href='https://kembara.vercel.app/'>Kembara</a>
 
 <h3>Build with:</h3>
