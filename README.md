@@ -15,7 +15,7 @@
 <h3>Profile</h3>
 <div>
   <p>&bull; Portfolio: <a href="https://farizadzmir.vercel.app/">https://farizadzmir.vercel.app/</a></p>
-  <p>&bull; Email: farizulhilmy@thecrate.in</p>
+  <p>&bull; Email: farizulhilmy7@gmail.com</p>
   <p>&bull; LinkedIn: <a href="https://www.linkedin.com/in/farizulhilmy/">https://www.linkedin.com/in/farizulhilmy/</a></p>
 </div>
 
