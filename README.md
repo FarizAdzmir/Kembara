@@ -1,4 +1,7 @@
-<div align='center'><img style="width:30%" src='https://github.com/FarizAdzmir/Kembara/blob/main/assets/img/logo.png'/></div>
+<div align='center'>
+<img src='https://github.com/FarizAdzmir/Kembara/blob/main/assets/img/Kembara%20-%20Home.png'/>
+
+</div>
 
 <h2>About the project</h2>
 
@@ -19,13 +22,4 @@
   <p>&bull; LinkedIn: <a href="https://www.linkedin.com/in/farizulhilmy/">https://www.linkedin.com/in/farizulhilmy/</a></p>
 </div>
 
-
-<h2>Screenshots of the Project 📸</h2>
-<br>
-<h3 align='center'>Home Page 🏡</h3>
-
-<div align='center'>
-<img src='https://github.com/FarizAdzmir/Kembara/blob/main/assets/img/Kembara%20-%20Home.png'/>
-
-</div>
 
