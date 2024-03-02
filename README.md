@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='https://github.com/FarizAdzmir/Kembara/blob/main/assets/img/Kembara%20-%20Home.png'/>
+<img src='https://github.com/FarizAdzmir/Kembara/blob/main/assets/img/Kembara.webp'/>
 
 </div>
 
